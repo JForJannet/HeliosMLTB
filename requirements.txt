@@ -28,4 +28,3 @@ telegraph
 tenacity
 tgCrypto
 xattr
-yt-dlp
